@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ##  Github Stats
 ![](https://komarev.com/ghpvc/?username=aliemir99&color=green)<br/>
 ![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=aliemir99&show_icons=true&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliemir99&layout=compact)](https://github.com/ibrajber99/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliemir99&layout=compact)](https://github.com/aliemir99/)
