@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a software and game enthusiast who likes problem solving and critical thinking.
 <!--
 **aliemir99/aliemir99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
