@@ -3,7 +3,7 @@
 I am a software and game enthusiast who likes problem solving and critical thinking.
 
 - 🔭 I’m currently working on a 2D fighting game in SFML
-- 🌱 I’m currently learning C#.NET with Entity Framework, Android, QA
+- 🌱 I’m interested in game engines such as Unity, Unreal and Godot
 - 👯 I’m looking to collaborate on any game or software projects.
 
 ##  Github Stats
