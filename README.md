@@ -2,7 +2,8 @@
 
 I am a software and game enthusiast who likes problem solving and critical thinking.
 
-- 🔭 I’m currently working on a 2D fighting game in SFML
+- 🔭 I’m currently working on learning Unity from learn.Unity
+- 👋 Check out my latest finished game project called Shinboi-Ketto
 - 🌱 I’m interested in game engines such as Unity, Unreal and Godot
 - 👯 I’m looking to collaborate on any game or software projects.
 
