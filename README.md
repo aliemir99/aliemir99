@@ -2,9 +2,8 @@
 
 I am a software and game enthusiast who likes problem solving and critical thinking.
 
-- 🔭 I’m currently working on learning Unity from learn.Unity
-- 👋 Check out my latest finished game project called Shinboi-Ketto
-- 🌱 I’m interested in game engines such as Unity, Unreal and Godot
+- 🔭 I’m currently working on learning new front end frameworks
+- 🌱 I’m interested in game engines such as Unity, Unreal and Godot and front end frameworks such as angular and react
 - 👯 I’m looking to collaborate on any game or software projects.
 
 ##  Github Stats
